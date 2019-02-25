@@ -1,4 +1,4 @@
-##Supplemental Material for IJCAI-2019
+## Supplemental Material for IJCAI-2019
 
 Here are a few additional generated examples for the paper *IRCGAN: Introspective Recurrent Convolutional GAN for text-to-video generation*
 
@@ -6,10 +6,10 @@ Here are a few additional generated examples for the paper *IRCGAN: Introspectiv
 
 | input sentence                     |                       generated gif                       |
 | ---------------------------------- | :-------------------------------------------------------: |
-| Digit 3 is moving down then up.    |  ![](.\single_s\sGAN9800_03digit3ismovingdownandup.gif)   |
-| Digit 5 is moving up then down.    |  ![](.\single_s\sGAN9800_11digit5ismovingupanddown.gif)   |
-| Digit 0 is moving right then left. | ![](.\single_s\sGAN8800_11digit0ismovingrightandleft.gif) |
-| Digit 6 is moving left then right. | ![](.\single_s\sGAN9200_15digit6ismovingleftandright.gif) |
+| Digit 3 is moving down then up.    |  ![](./single_s/sGAN9800_03digit3ismovingdownandup.gif)   |
+| Digit 5 is moving up then down.    |  ![](./single_s/sGAN9800_11digit5ismovingupanddown.gif)   |
+| Digit 0 is moving right then left. | ![](./single_s/sGAN8800_11digit0ismovingrightandleft.gif) |
+| Digit 6 is moving left then right. | ![](./single_s/sGAN9200_15digit6ismovingleftandright.gif) |
 
 #### Double Moving Mnist-4
 
@@ -20,7 +20,7 @@ Here are a few additional generated examples for the paper *IRCGAN: Introspectiv
 | Digit 0 moves right then left while digit 9 moves left then right. | ![](.\double_s\sGAN3800_18digit0isrightthenleftwhiledigit9isleftthenright.gif) |
 | Digit 6 moves up then down while digit 3 moves right then left. | ![](.\double_s\sGAN3800_19digit6isupthendownwhiledigit3isrightthenleft.gif) |
 
-####KTH-4
+#### KTH-4
 
 | input sentence                      |                      generated gif                       |
 | ----------------------------------- | :------------------------------------------------------: |
@@ -33,7 +33,7 @@ Here are a few additional generated examples for the paper *IRCGAN: Introspectiv
 | Person 1 is boxing.                 |       ![](.\kth_s\sGAN3400_16person1isboxing.gif)        |
 | Person 10 is boxing.                |       ![](.\kth_s\sGAN8800_07person10isboxing.gif)       |
 
-####Failed examples
+#### Failed examples
 
 | input sentence                      |                        generated gif                         |
 | ----------------------------------- | :----------------------------------------------------------: |
